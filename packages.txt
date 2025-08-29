@@ -1,3 +1,7 @@
 tesseract-ocr
 tesseract-ocr-eng
 tesseract-ocr-por
+libglib2.0-0
+libsm6
+libxext6
+libxrender1
