@@ -1,6 +1,6 @@
 streamlit
 pytesseract
-opencv-python
+opencv-python-headless==4.9.0.80
 pillow
 numpy
 pandas
